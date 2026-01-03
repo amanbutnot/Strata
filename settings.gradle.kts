@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Strata"
 include(":library")
+include(":strata-sharedprefs")
